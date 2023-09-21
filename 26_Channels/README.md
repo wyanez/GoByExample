@@ -39,4 +39,4 @@ ping
 ```
 
 You can view and run this example here:
-[Go Playground](https://go.dev/play/p/yad4U2tFMUM){:target="_blank"} 
+https://go.dev/play/p/yad4U2tFMUM
