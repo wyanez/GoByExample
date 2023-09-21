@@ -39,3 +39,6 @@ goroutine : 1
 goroutine : 2
 done
 ```
+
+You can view and run this example here:
+https://go.dev/play/p/e7ZoI_EQhka
