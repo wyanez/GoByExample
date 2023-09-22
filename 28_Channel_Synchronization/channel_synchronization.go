@@ -31,6 +31,7 @@ func main() {
 	//Block until we receive a notification from the worker on the channel.
 	fmt.Println("[main] waiting")
 	<-done
-
+	// IMPORTANT! If you removed the <- done line from this program,
+	// the program would exit before the worker even started.
 	fmt.Println("[main] done!")
 }
